@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Shivama-Max.github.io/age_calculator",
-  "name": "age_calc",
+  "homepage": "https://warl0rd-11.github.io/Age_Calculator_RJS",
+  "name": "Age_Calculator_RJS",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -43,3 +43,4 @@
     "gh-pages": "^5.0.0"
   }
 }
+
